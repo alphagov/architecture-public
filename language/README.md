@@ -22,7 +22,7 @@ Service definition terms
 | How       | Component         |
 | How much  | Quality           |
 
-![Service architecture language](language.jpg)
+![Structure of a service](structure.jpg)
 
 Service
 -------
@@ -64,15 +64,17 @@ Technologies are used to identify how services are constructed.
 
 Hosting
 -------
-Hosting defines where live services are deployed. To aid in business operating model impacting.
+Hosting defines where live service components (technology) are deployed. We want to understand this because it 
+affects the cost, flexibility and certain risk factors for a service.
 
 Role
 ----
-Who would use the service (including numbers)
+Who would use the service (including numbers),  citizen and business users, civil cervant and other agency users.
 
 Estate
 ------
-Where is the service accessed, offices, etc. To aid in business operating model impacting.
+Where is the service accessed by people - especially offices. We record this to aid in understanding any 
+changes to the business operating model.
 
 References
 ----------
@@ -101,7 +103,6 @@ Cost, Value
 Technical terms
 ===============
 
-![Structure of a service](structure.jpg)
 
 Microservice - A technical model of service. When we mean a technical service we will always say 'microservice'. It is a similar concept to service - fulfills a coherent set of needs through behaviour and data encapsulated in a well defined interface - but it is purely a technical construct. Often smaller than services in scope. 
  A service willbe realised by many microservices. But also by people, process, budget and all the other things a service manager is concerned with. 
