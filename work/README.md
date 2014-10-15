@@ -53,5 +53,4 @@ They
 Resources
 ---------
  
-  - our Kanban wall is in Aviation house, copied on [Trello](https://trello.com/ukgovarch))
   - [good clean stories](http://en.wikipedia.org/wiki/INVEST_\(mnemonic\))
