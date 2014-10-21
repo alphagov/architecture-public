@@ -73,7 +73,7 @@ Where is the service accessed by people – especially offices. We record this t
 
 References
 ----------
-For each service or component we can point to one or more references to underpin its utility. References may be case studies, prototype implementations and example parts of actual working services. Also any service or component can be marked as a referenceable example. See [recipes](../recipes)
+For each service or component we can point to one or more references to underpin its utility. References may be case studies, prototype implementations and example parts of actual working services. Also any service or component can be marked as a referenceable example.
 
 Service management terms
 ========================
