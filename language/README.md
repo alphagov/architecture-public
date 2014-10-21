@@ -32,7 +32,7 @@ We probably want to include ‘transformation’ aspects such as what legacy int
 
 Transaction
 -----------
-A user journey through a number of steps requiring an exchange between two or more parties to achieve a specific user goal. See also Designing transactions. The transaction may be digital or face-to-face, though the latter should be recorded in a digital format.
+A user journey through a number of steps requiring an exchange between two or more parties to achieve a specific user goal. The transaction may be digital or face-to-face, though the latter should be recorded in a digital format.
 A service may support more than one transaction and a transaction may span more than one service. For example, changing address with DVLA, could require updating address with Home Office at some point.
 As an implementation note we may want to favour front end service choreography, integrating through the web layer, more than back end service choreography. So a user journey could skip from one service to another, linking through the user’s browser. This allows quick and easy service composition. 
 A transaction has a number of steps which may or may not be automated.
