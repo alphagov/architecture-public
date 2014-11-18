@@ -27,7 +27,7 @@ Service definition terms
 Service
 -------
 We define a service as a unit of government behaviour important enough to have a service manager permanently and probably uniquely assigned to it. In a sense it is a ‘business’ Service - it encompasses people, process and technology - but following the ‘digital by default’ policy. So they are information services as well.
-A service encapsulates data.
+A service encapsulates data. Most services will realise a user need directly, but some will support other services and we can call these 'Platform' services.
 We probably want to include ‘transformation’ aspects such as what legacy integration patterns are being used.
 
 Transaction
